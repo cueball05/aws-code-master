@@ -1,0 +1,7 @@
+customhost = "employee.cotjrj9gtnsa.us-east-1.rds.amazonaws.com"
+customuser = "admin"
+custompass = "admin1234"
+customdb = "employee"
+custombucket = "address-employee"
+customregion = "us-east-1"
+#customtable = "employee_image_table"
