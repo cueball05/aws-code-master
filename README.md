@@ -6,11 +6,11 @@ sudo apt-get install mysql-client
 
 sudo apt-get install python3  
 
-sudo apt-get install python3-flask  
+sudo pip install flask  
 
-sudo apt-get install python3-pymysql  
+sudo pip install pymysql  
 
-sudo apt-get install python3-boto3
+sudo pip install boto3
 
 # for running application
 sudo python3 Empapp.py
